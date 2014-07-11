@@ -1,0 +1,7 @@
+name: ctOS
+version: 1.0
+main: ctOS.ctOS
+description: ctOS We are all connected
+author: coco_gigpn
+commands:
+    ctos:
