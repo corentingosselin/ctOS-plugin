@@ -1,4 +1,4 @@
-package Particles;
+package fr.coco5843.ctos.particles;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -15,9 +15,9 @@ import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 
-import Particles.ReflectionUtilities.PackageType;
-import Particles.ReflectionUtilities.PacketType;
-import Particles.ReflectionUtilities.SubPackageType;
+import fr.coco5843.ctos.particles.ReflectionUtilities.PackageType;
+import fr.coco5843.ctos.particles.ReflectionUtilities.PacketType;
+import fr.coco5843.ctos.particles.ReflectionUtilities.SubPackageType;
 
 
 
