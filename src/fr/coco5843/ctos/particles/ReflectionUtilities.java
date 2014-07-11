@@ -1,4 +1,4 @@
-package Particles;
+package fr.coco5843.ctos.particles;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

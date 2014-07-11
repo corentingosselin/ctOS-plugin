@@ -1,7 +1,14 @@
 name: ctOS
 version: 1.0
-main: ctOS.ctOS
+main: fr.coco5843.ctos.ctOS
 description: ctOS We are all connected
 author: coco_gigpn
 commands:
-    ctos:
+  ctos:
+    aliases: [citizen-os]
+    description: Main command of ctOS.
+    usage: /ctos [help|forcefield]
+permissions:
+ ces.listen:
+  default: op
+  description: Allow you to listen every errors from console !

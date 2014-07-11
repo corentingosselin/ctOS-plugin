@@ -1,2 +1,3 @@
 eclipse.preferences.version=1
-encoding//src/ctOS/SystemctOS.java=UTF-8
+encoding//src/fr/coco5843/ctos/CTOSSystem.java=UTF-8
+encoding//src/fr/coco5843/ctos/commands/CTOSCommand.java=UTF-8
